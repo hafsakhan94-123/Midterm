@@ -29,6 +29,7 @@ public class UserProfile
     {
         userID = givenID;
         genre= givenGenre;
+
     }
 
     /**
